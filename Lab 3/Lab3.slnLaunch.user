@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "generator\\generator.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "processor\\processor\\processor.vcxproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
